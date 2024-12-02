@@ -1,7 +1,6 @@
 # Java-Camel-CLI-Springboot-config
 Visual Studio setting up Java, Apache Camel, Apache Springboot
-# Java-Camel-CLI-Springboot-config
-Visual Studio setting up Java, Apache Camel, Apache Springboot.
+
 
 # Addtion to this project I will add Spring boot and Spring boot DATA MongoDB.
 I will be using Windows as my operating system for all of this.
@@ -29,4 +28,3 @@ If your IDE has the Spring Initializr integration, you can complete this process
 You can also fork the project from Github and open it in your IDE or other editor.
 
 
-adding the java spring boot framework and spring boot DATA MongoDB NoSQL database to this project.  For JSON file storage and conversions.
