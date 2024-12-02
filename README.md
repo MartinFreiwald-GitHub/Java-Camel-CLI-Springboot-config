@@ -22,9 +22,17 @@ Click Dependencies and select Spring Data MongoDB.
 
 Click Generate.
 
+Make a snapshot or Print-screen copy of the Spring Initializer.  So you can correct the changes you made in the Group, Artifact and Description field.  You will need this to correct the Customer.java file that is located in the file path: gs-accessing-data-mongodb-main/complete/src/main/java/com/example/accessingdatamongodb/Customer.java
+
 Download the resulting ZIP file, which is an archive of a web application that is configured with your choices.
+
+Extract the file to Your custom named folder.  That is the folder you made through the Java Project Folder using the Visual Studio Editor IDE button Called create a "Create Java Project" Button.
+https://www.youtube.com/watch?v=ArW93visVhc  see 3.00 time on the video and prior and past.  Referrnence will be this website.  https://code.visualstudio.com/docs/java/java-tutorial  Now you can cross reffernce the Group and Artifact as well as correct directory path.
 
 If your IDE has the Spring Initializr integration, you can complete this process from your IDE.
 You can also fork the project from Github and open it in your IDE or other editor.
+
+
+
 
 
