@@ -1,5 +1,5 @@
 # Java-Camel-CLI-Springboot-config
-Visual Studio setting up Java, Apache Camel, Apache Springboot
+Visual Studio setting up Java, Apache Camel, Apache Springboot.  The source code for this is forked from Github here.  https://github.com/apache/camel
 
 
 # Addtion to this project I will add Spring boot and Spring boot DATA MongoDB.  I will get the source code from https://github.com/spring-guides/gs-accessing-data-mongodb.
