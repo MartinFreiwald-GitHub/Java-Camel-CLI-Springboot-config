@@ -1,3 +1,5 @@
+start in the components folder thats in the camel-framework folder.
+
 # Java-Camel-CLI-Springboot-config
 Visual Studio setting up Java, Apache Camel, Apache Springboot.  The source code for this is forked from Github here.  https://github.com/apache/camel
 Change the captial C in the camel-framework directory to lower case for your IDE folder store.
