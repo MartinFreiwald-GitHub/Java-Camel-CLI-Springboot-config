@@ -2,7 +2,7 @@
 Visual Studio setting up Java, Apache Camel, Apache Springboot
 
 
-# Addtion to this project I will add Spring boot and Spring boot DATA MongoDB.
+# Addtion to this project I will add Spring boot and Spring boot DATA MongoDB.  I will get the source code from https://github.com/spring-guides/gs-accessing-data-mongodb.
 I will be using Windows as my operating system for all of this.
 
 Download MongoDB commumity 8.0 msi download and then download from same site MongoDB Community 8.0 zip download. Just change the selection from msi to zip.  Uses this video from Youtube as a guide.  https://www.youtube.com/watch?v=gB6WLkSrtJk
